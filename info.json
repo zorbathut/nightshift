@@ -1,0 +1,9 @@
+{
+  "name": "nightshift",
+  "version": "1.0.0",
+  "title": "Night Shift soundbank",
+  "author": "ZorbaTHut",
+  "description": "Adds samples from the game Night Shift to the programmable speaker",
+  "factorio_version": "0.16",
+  "dependencies": ["base >= 0.16"]
+}
